@@ -9,11 +9,11 @@
         <version>2.1.8.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.kkp.pelatihanwebservice</groupId>
-    <artifactId>pelatihan-webservice-api</artifactId>
+    <groupId>com.bezkoder</groupId>
+    <artifactId>spring-boot-security-jwt</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>pelatihan-webservice-api</name>
-    <description>KKP webservice restful api project </description>
+    <name>spring-boot-security-jwt</name>
+    <description>Demo project for Spring Boot Security - JWT</description>
 
     <properties>
         <java.version>1.8</java.version>
